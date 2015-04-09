@@ -1,0 +1,4 @@
+1) Change variable formats
+2) Fill in missing values
+3) Look for co-relations in vars
+4) Test out a few models
